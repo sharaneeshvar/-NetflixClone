@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container{
+    height: 700px;
+    width: 100%;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/7cee2527-d2cc-4cc9-99f6-d1375e72d46e/eb83fa55-ab10-476a-b103-499eb7c6e022/IN-en-20230103-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: cover;
+}
+.nav{
+    height: 100px;
+    width: 100%;
+    /* background-color: black; */
+    padding-left: 70px;
+    padding-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left{
+    height: 80px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.lang{
+    height: 45px;
+    width:120px ;
+    padding: 0px;
+    background-color: rgba(26, 6, 6, 0.771);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 20px;
+    border-radius: 4px;
+    border: 1px solid white;
+}
+.language{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    padding: 0px;
+    width: 90px;
+    background-color: rgba(26, 6, 6, 0);
+    outline: none;
+    color: rgb(255, 255, 255);
+    border: none;
+
+}
+.fi-rr-globe{
+    font-size: 20px;
+}
+.button{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    padding: 0px;
+    width: 90px;
+    background-color: red;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+.container1{
+    height: 80px;
+    width: 100%;
+    margin-top: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.con2{
+    height: 80px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+}
+.con3{
+    height: 40px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+.EID{
+    height: 80px;
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.typebar{
+    height: 60px;
+    width: 500px;
+    outline: none;
+    font-size: 18px;
+}
+.GS{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    padding: 0px;
+    width: 250px;
+    background-color: red;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 24px;
+}
