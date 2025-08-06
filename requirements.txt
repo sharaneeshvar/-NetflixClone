@@ -1,0 +1,11 @@
+streamlit>=1.29.0
+google-generativeai>=0.3.0
+pandas>=2.0.0
+plotly>=5.17.0
+langfuse>=2.7.0
+python-dotenv>=1.0.0
+pillow>=10.0.0
+asyncio-compat>=0.1.0
+concurrent-futures>=3.1.1
+aiohttp>=3.8.0
+nest-asyncio>=1.5.8

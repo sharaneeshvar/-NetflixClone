@@ -1,0 +1,11 @@
+id,technique,prompt,role,verification_style
+prompt_1,zero_shot,What are the benefits of renewable energy?,N/A,N/A
+prompt_2,chain_of_thought,If a person invests $1000 at 5% annual interest compounded annually how much will they have after 10 years?,N/A,N/A
+prompt_3,role_based,Explain machine learning to a beginner,data scientist,N/A
+prompt_4,zero_shot,Write a short poem about technology,N/A,N/A
+prompt_5,chain_of_verification,What are the main causes of climate change?,N/A,joint
+prompt_6,role_based,How can we improve cybersecurity in organizations?,cybersecurity expert,N/A
+prompt_7,zero_shot,Translate 'Hello world' to Spanish,N/A,N/A
+prompt_8,chain_of_thought,A train leaves station A at 2 PM traveling at 60 mph. Another train leaves station B at 3 PM traveling at 80 mph toward station A. If the stations are 300 miles apart when will the trains meet?,N/A,N/A
+prompt_9,role_based,Explain the importance of user experience in web design,UX designer,N/A
+prompt_10,chain_of_verification,What are the health benefits of regular exercise?,N/A,factored
