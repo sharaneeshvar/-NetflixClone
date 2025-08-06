@@ -1,0 +1,7 @@
+technique,prompt,role,task_description,examples,trace_name
+zero_shot,"Explain quantum computing in simple terms","","","[]","quantum_explanation"
+chain_of_thought,"Solve this problem step by step: What is 15% of 240?","","","[]","math_problem"
+role_based,"Write a marketing strategy for a new eco-friendly product","marketing expert","","[]","marketing_strategy"
+zero_shot,"List the top 5 benefits of renewable energy","","","[]","renewable_benefits"
+chain_of_thought,"How would you approach learning a new programming language?","","","[]","learning_approach"
+role_based,"Analyze the current state of artificial intelligence","AI researcher","","[]","ai_analysis"
