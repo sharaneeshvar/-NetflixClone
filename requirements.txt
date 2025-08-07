@@ -1,0 +1,9 @@
+streamlit==1.31.1
+google-generativeai==0.3.2
+langfuse<3.0.0
+pandas==2.1.4
+plotly==5.18.0
+Pillow==10.2.0
+uuid
+concurrent-futures
+threading
